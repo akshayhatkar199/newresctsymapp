@@ -488,3 +488,19 @@ responsive
   background: #561f1f;
   border-color:#561f1f;
 }
+
+@media screen and (min-width: 768px) {
+  
+.heroBlock {
+  background: url('assets/images/images7.jpg') no-repeat; 
+ }
+  
+}
+
+@media screen and (max-width: 768px) {
+  
+  .heroBlock {
+    background: url('assets/images/images1.jpg') no-repeat; 
+   }
+    
+  }
