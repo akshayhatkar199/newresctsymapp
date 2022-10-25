@@ -38,8 +38,12 @@ const AppHero = () => {
              <br/>
              <br/>
              <br/>
-           <h1 style={{color: 'white'}}><span className='textvisible'>{item.title}</span></h1> 
-              <p style={{color: 'white'}}><span className='textvisible'>{item.content}</span></p>
+          
+              <p style={{color: 'white'}}  className='textvisible'>
+
+              <h1 style={{color: 'white'}}><span>{item.title}</span></h1> 
+              <span>{item.content}</span>
+              </p>
            {/* <div className='btnHolder'>
            <Button type="primary">Learn More</Button>
            <Button><i className="fas fa-desktop"></i>Watch a Demo</Button>

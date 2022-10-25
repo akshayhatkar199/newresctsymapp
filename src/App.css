@@ -483,3 +483,8 @@ responsive
     display: none;
   }
 }
+
+.ant-btn-primary {
+  background: #561f1f;
+  border-color:#561f1f;
+}

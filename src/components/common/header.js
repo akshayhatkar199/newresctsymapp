@@ -21,8 +21,8 @@ const Appheader = () => {
     <div className='container-fluid'>
         <div className='header'>
         <div className="logo" >
-        <i className='fas fa-bolt'></i>
-        <a href='http://www.google.com'> *शाहूपुरी युवक मंडळ* कोल्हापूर</a>
+        <i className='fa fa-flag' style={{color:"#ff4c00"}}></i>
+        <a href='http://www.google.com'> शाहूपुरी युवक मंडळ</a>
         </div>
     <div className='mobileHidden'>
     <Anchor targetOffset ='65.2'>
