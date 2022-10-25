@@ -413,7 +413,7 @@ footer
 
 .footer .logo {
   font-size: 22px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin: 0 0 20px;
 }
 
