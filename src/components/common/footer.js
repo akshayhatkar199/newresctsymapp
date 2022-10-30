@@ -6,7 +6,7 @@ const AppFooter = () => {
     <div className='footer'>
     <div className='logo'> 
     <i className='fa fa-flag' style={{color:"#ff4c00", marginRight: "6px"}}></i>
-     shahupuri yuvak mandal  <i className='fa fa-flag' style={{color:"#ff4c00"}}></i>
+     Shahupuri Yuvak Mandal  <i className='fa fa-flag' style={{color:"#ff4c00"}}></i>
     </div>
     <ul className='socials '>
         <li> <a href='https://www.facebook.com/shahupuriyuvak.mandal/'><i className="fab fa-facebook-f" style={{color:"#1877f2"}}></i></a> </li>

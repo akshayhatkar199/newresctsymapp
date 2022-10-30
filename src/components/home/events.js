@@ -78,7 +78,7 @@ const AppEvents = () => {
     dataSource={data}
     renderItem={item => (
       <List.Item>
-        <Card title={item.title}>
+        <Card title={item.title} className="aaaaaaaaaaa">
         <img src= {item.content[0].Image} style={{ width: '100%' , height:'250px'}}/>
         {/* <p className="large"> {item.content[0].price}</p> */}
         {/* <p> {item.content[0].space}</p>
